@@ -1,0 +1,12 @@
+<section id="entry-<$mt:EntryID$>" class="entry entry-summary">
+<mt:EntryAssets type="image" limit="1">
+  <figure>
+    <img src="<$mt:AssetThumbnailURL width="150"$>" class="thumb">
+  </figure>
+</mt:EntryAssets>
+  <h2 class="title"><a href="<$mt:EntryPermalink$>"><$mt:EntryTitle$></a></h2>
+  <p><$mt:EntryExcerpt$></p>
+  <footer>
+    <p><__trans phrase="Posted on"> <time datetime="<$mt:EntryDate format_name="iso8601"$>" itemprop="datePublished"><$mt:EntryDate format="%x"$></time><mt:IfArchiveTypeEnabled archive_type="Category"><mt:If tag="EntryPrimaryCategory"> <mt:EntryPrimaryCategory><a href="<$mt:CategoryArchiveLink$>" rel="tag" class="label category <$mt:CategoryBasename$>"><$mt:CategoryLabel$></a></mt:EntryPrimaryCategory></mt:If></mt:IfArchiveTypeEnabled></p>
+  </footer>
+</section>

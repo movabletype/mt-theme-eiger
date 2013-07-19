@@ -1,0 +1,29 @@
+<mt:Entries lastn="10">
+  <mt:EntriesHeader>
+        <section id="posts">
+          <h2><__trans phrase="Recent Entries"></h2>
+          <ol>
+  </mt:EntriesHeader>
+            <li>
+              <a href="<$mt:EntryPermalink encode_html="1"$>">
+                <time datetime="<$mt:EntryDate format_name="iso8601"$>"><$mt:EntryDate format="%x"$></time>
+                <div>
+  <mt:IfArchiveTypeEnabled archive_type="Category">
+    <mt:If tag="EntryPrimaryCategory">
+      <mt:EntryPrimaryCategory>
+                  <span class="label category <$mt:CategoryBasename$>"><$mt:CategoryLabel$></span>
+      </mt:EntryPrimaryCategory>
+    </mt:If>
+  </mt:IfArchiveTypeEnabled>
+                  <span class="title"><$mt:EntryTitle$></span>
+                </div>
+              </a>
+            </li>
+  <mt:EntriesFooter>
+          </ol>
+          <nav>
+            <a href="<$mt:Link template="main_index" encode_html="1"$>"><__trans phrase="Read more"></a>
+          </nav>
+        </section>
+  </mt:EntriesFooter>
+</mt:Entries>

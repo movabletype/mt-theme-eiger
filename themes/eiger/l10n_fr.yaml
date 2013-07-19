@@ -1,0 +1,46 @@
+Home: 'Accueil'
+About: 'À propos'
+Posted on: 'Publié le :'
+in: 'dans :'
+Previous entry: 'Note précédente'
+Next entry: 'Note suivante'
+Newer entries: 'Notes récentes'
+Older entries: 'Anciennes notes'
+Read more: 'Lire la suite'
+Please paste the Zenback script code here: 'Veuillez copier le code Zenback ici'
+
+Index Page: "Page d'index"
+JavaScript - Theme: 'Javascript — Thème'
+Stylesheet for IE (8 or lower): 'Feuille de styles pour IE (8 ou inférieur)'
+Yearly Entry Listing: 'Liste annuelle des notes'
+Main Image: 'Image principale'
+Pagination: 'Pagination'
+Related Contents (Index): 'Contenus liés (index)'
+Related Contents (Blog): 'Contenus liés (blog)'
+
+for Comments, Trackbacks: 'pour commentaires, Trackbacks'
+Sample Style: 'Exemple de style'
+Category Label: 'Label de catégorie'
+Sample Widget: 'Exemple de widget'
+Sample Widget 01: 'Exemple de widget 01'
+Sample Widget 02: 'Exemple de widget 02'
+Sample Widget 03: 'Exemple de widget 03'
+Sample Widget 04: 'Exemple de widget 04'
+This is sample widget: 'Ceci est un exemple de widget'
+Advertisement: 'Publicité'
+Banner: 'Bannière'
+Link Text: 'Texte du lien'
+Yearly Archives: 'Archives annuelles'
+Yearly Archives Dropdown: 'Archives annuelles (menu déroulant)'
+Select a Year...: 'Sélectionnez une année…'
+
+_THEME_DESCRIPTION: 'Eiger est un thème web réactif personnalisable, conçu pour des sites et des blogs professionnels. En plus du support multi-clients via Media Query (CSS), des fonctions Movable Type rendent très simple la personnalisation de la navigation et des éléments graphiques comme logos, bannières ou entêtes.'
+
+_ABOUT_PAGE_TITLE: 'À propos'
+_ABOUT_PAGE_BODY: |
+                 <p>Ceci est un exemple de page "à propos" (typiquement, une telle page contient des informations sur l'individu ou l'entreprise).</p>
+                 <p>Si le tag <code>@ABOUT_PAGE</code> est utilisé sur une page, celle-ci est ajoutée à la navigation dans l'entête et le pied de page.</p>
+_SAMPLE_PAGE_TITLE: "Page d'exemple"
+_SAMPLE_PAGE_BODY: |
+                 <p>Ceci est un exemple de page web.</p>
+                 <p>Si le tag <code>@ADD_TO_SITE_NAV</code> est utilisé sur une page, celle-ci sera ajoutée à la navigation dans l'entête et le pied de page.</p>

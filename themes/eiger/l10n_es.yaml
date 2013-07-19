@@ -1,0 +1,46 @@
+Home: 'Inicio'
+About: 'Acerca de'
+Posted on: 'Publicado en'
+in: 'en'
+Previous entry: 'Entrada anterior'
+Next entry: 'Entrada siguiente'
+Newer entries: 'Entradas posteriores'
+Older entries: 'Entradas anteriores'
+Read more: 'Leer más'
+Please paste the Zenback script code here: 'Por favor, copie el código de Zenback aquí'
+
+Index Page: 'Página de inicio'
+JavaScript - Theme: 'JavaScript - Tema'
+Stylesheet for IE (8 or lower): 'Hoja de estilo para IE (8 o menor)'
+Yearly Entry Listing: 'Lista anual de entradas'
+Main Image: 'Imagen principal'
+Pagination: 'Paginación'
+Related Contents (Index): 'Contenidos relacionados (índice)'
+Related Contents (Blog): 'Contenidos relacionados (blog)'
+
+for Comments, Trackbacks: 'para comentarios, Trackbacks'
+Sample Style: 'Estilo de ejemplo'
+Category Label: 'Etiqueta de categorías'
+Sample Widget: 'Widget de ejemplo'
+Sample Widget 01: 'Widget de ejemplo 01'
+Sample Widget 02: 'Widget de ejemplo 02'
+Sample Widget 03: 'Widget de ejemplo 03'
+Sample Widget 04: 'Widget de ejemplo 04'
+This is sample widget: 'Este es un widget de ejemplo'
+Advertisement: 'Publicidad'
+Banner: 'Cartel'
+Link Text: 'Texto'
+Yearly Archives: 'Archivos anuales'
+Yearly Archives Dropdown: 'Archivos anuales - Desplegable'
+Select a Year...: 'Seleccione un año'
+
+_THEME_DESCRIPTION: '"Eiger" es un tema personalizable y adaptativo, diseñado para sitios web corporativos. Además de soporte multidispositivo, a través de Media Query (CSS), las funciones de Movable Type facilitan la personalización de los contenidos navegables y de los elementos gráficos, como logotipos, cabeceras y carteles.'
+
+_ABOUT_PAGE_TITLE: 'Página "Acerca de"'
+_ABOUT_PAGE_BODY: |
+                 <p>Esta es una página "Acerca de" de ejemplo. (Habitualmente, una página "Acerca de" ofrece información destacable sobre una persona o una organización).</p>
+                 <p>Si se utiliza la etiqueta <code>@ABOUT_PAGE</code> en una página web, se añadirá la página "Acerca de" a la lista de navegación tanto en la cabecera como en el pie.</p>
+_SAMPLE_PAGE_TITLE: 'Página de ejemplo'
+_SAMPLE_PAGE_BODY: |
+                 <p>Esta es una página de ejemplo.</p>
+                 <p>Si se utiliza la etiqueta <code>@ADD_TO_SITE_NAV</code> en una página web, se añadirá la página a la lista de navegación, tanto en la cabecera con el pie.</p>

@@ -1,0 +1,11 @@
+        <nav role="navigation">
+          <ul>
+<mt:Pages tag="@ABOUT_PAGE" limit="1">
+            <li><a href="<$mt:PagePermalink encode_html="1"$>"><__trans phrase="About"></a></li>
+</mt:Pages>
+            <li><a href="<$mt:Link template="main_index" encode_html="1"$>"><__trans phrase="Blog"></a></li>
+<mt:Pages tag="@ADD_TO_SITE_NAV">
+            <li><a href="<$mt:PagePermalink encode_html="1"$>"><$mt:PageTitle$></a></li>
+</mt:Pages>
+          </ul>
+        </nav>

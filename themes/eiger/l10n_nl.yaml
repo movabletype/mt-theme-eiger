@@ -1,0 +1,46 @@
+Home: 'Hoofdpagina'
+About: 'Over'
+Posted on: 'Gepubliceerd op'
+in: 'in'
+Previous entry: 'Vorig bericht'
+Next entry: 'Volgend bericht'
+Newer entries: 'Nieuwere berichten'
+Older entries: 'Oudere berichten'
+Read more: 'Meer lezen'
+Please paste the Zenback script code here: 'Gelieve de Zenback scriptcode hier in te plakken'
+
+Index Page: 'Indexpagina'
+JavaScript - Theme: 'Javascript - Thema'
+Stylesheet for IE (8 or lower): 'Stylesheet voor IE (8 of lager)'
+Yearly Entry Listing: 'Berichten per jaar'
+Main Image: 'Hoofdafbeelding'
+Pagination: 'Paginering'
+Related Contents (Index): 'Vergelijkbare inhoud (Index)'
+Related Contents (Blog): 'Vergelijkbare inhoud (Blog)'
+
+for Comments, Trackbacks: 'voor reacties, trackbacks'
+Sample Style: 'Voorbeeldstijl'
+Category Label: 'Categorielabel'
+Sample Widget: 'Voorbeeldwidget'
+Sample Widget 01: 'Voorbeeldwidget 01'
+Sample Widget 02: 'Voorbeeldwidget 02'
+Sample Widget 03: 'Voorbeeldwidget 03'
+Sample Widget 04: 'Voorbeeldwidget 04'
+This is sample widget: 'Dit is een voorbeeldwidget'
+Advertisement: 'Advertentie'
+Banner: 'Banner'
+Link Text: 'Linktekst'
+Yearly Archives: 'Archief per jaar'
+Yearly Archives Dropdown: 'Uitklapmenu archief per jaar'
+Select a Year...: 'Kies jaar...'
+
+_THEME_DESCRIPTION: '"Eiger" is een personaliseerbaar Responsive Web Design thema, ontworpen voor blogs en bedrijfswebsites.  Naast ondersteuning voor weergave op meerdere toestellen via Media Query (CSS), maakt Movable Type het makkelijk om de navigatie en afbeeldingen zoals logo, headers of banners aan te passen.'
+
+_ABOUT_PAGE_TITLE: Over pagina
+_ABOUT_PAGE_BODY: |
+                 <p>Dit is een voorbeeld van een "over" pagina. (Meestal bevat een "overt" pagina informatie over het individu of bedrijf achter de site.)</p>
+                 <p>Als de <code>@ABOUT_PAGE</code> tag gebruikt wordt op een pagina dan zal de "over" pagina toegevoegd worden aan de navigatie bovenaan en onderaan de site.</p>
+_SAMPLE_PAGE_TITLE: Voorbeeldpagina
+_SAMPLE_PAGE_BODY: |
+                 <p>Dit is een voorbeeld van een pagina.</p>
+                 <p>Als de <code>@ADD_TO_SITE_NAV</code> tag gebruikt wordt op een pagina dan zal deze pagina toegevoegd worden aan de navigatielijst bovenaan en onderaan de site.</p>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="<$mt:BlogLanguage$>" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    <meta charset="<$mt:PublishCharset$>">
+    <mt:If tag="BlogDescription"><meta name="description" content="<$mt:BlogDescription remove_html="1" encede_html="1"$>"></mt:If>
+    <title><$mt:BlogName encode_html="1"$></title>
+    <link rel="canonical" href="<$mt:BlogURL encode_html="1"$>">
+    <$mt:Include module="<__trans phrase="HTML Head">"$>
+    <!-- Open Graph Protocol -->
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="<$mt:BlogLanguage setvar="blog_lang"$><mt:If name="blog_lang" eq="ja">ja_JP<mt:else><$mt:Var name="blog_lang"$></mt:If>">
+    <meta property="og:title" content="<$mt:BlogName encode_html="1"$>">
+    <meta property="og:url" content="<$mt:BlogURL encode_html="1"$>">
+    <mt:If tag="BlogDescription"><meta property="og:description" content="<$mt:BlogDescription remove_html="1" encode_html="1"$>"></mt:If>
+    <meta property="og:site_name" content="<$mt:BlogName encode_html="1"$>">
+    <meta property="og:image" content="<mt:Assets type="image" tag="@SITE_ICON" limit="1"><$mt:AssetThumbnailURL width="320px" square="1" encode_html="1"$><mt:Else><$mt:SupportDirectoryURL with_domain="1" encode_html="1"$>theme_static/<$mt:BlogThemeID$>/images/siteicon-sample.png</mt:Assets>">
+    <!-- Microdata -->
+    <meta itemprop="description" content="<$mt:BlogDescription remove_html="1" encede_html="1"$>">
+    <link itemprop="url" href="<$mt:BlogURL encode_html="1"$>">
+    <link itemprop="image" href="<mt:Assets type="image" tag="@SITE_ICON" limit="1"><$mt:AssetThumbnailURL width="320px" square="1" encode_html="1"$><mt:Else><$mt:SupportDirectoryURL with_domain="1" encode_html="1"$>theme_static/<$mt:BlogThemeID$>/images/siteicon-sample.png</mt:Assets>">
+  </head>
+  <body>
+    <header role="banner">
+      <$mt:Include module="<__trans phrase="Banner Header">"$>
+      <$mt:Include module="<__trans phrase="Navigation">"$>
+    </header>
+    <mt:Include module="<__trans phrase="Main Image">">
+    <div class="content">
+      <div role="main">
+        <$mt:Include module="<__trans phrase="Entries List">"$>
+      </div>
+      <div class="related">
+        <$mt:WidgetSet name="<__trans phrase="Related Contents (Index)">"$>
+      </div>
+    </div>
+    <footer role="contentinfo">
+      <$mt:Include module="<__trans phrase="Banner Footer">"$>
+    </footer>
+    <script src="<$mt:StaticWebPath encode_html="1"$>jquery/jquery.min.js"></script>
+    <script src="<$mt:Link template="javascript_theme" encode_html="1">"></script>
+  </body>
+</html>
