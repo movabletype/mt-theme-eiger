@@ -20,7 +20,7 @@ This theme requires:
 For more information on using "Rainier", please refer to the manual below:
 
 * [Setting up "Eiger" (English)](http://www.movabletype.org/documentation/mt5/design/themes/eiger.html)
-* [Setting up "Rainier" (Japanese)](http://www.movabletype.jp/documentation/mt5/design/themes/eiger.html)
+* [Setting up "Eiger" (Japanese)](http://www.movabletype.jp/documentation/mt5/design/themes/eiger.html)
 
 ## Installing
 1. Unpack the mt-theme-eiger archive.
