@@ -17,7 +17,7 @@ This theme requires:
 * Four pre-installed sample widgets
 * Bread crumb navigation (excluding on the home page, error page and search results page)
 
-For more information on using "Rainier", please refer to the manual below:
+For more information on using "Eiger", please refer to the manual below:
 
 * [Setting up "Eiger" (English)](http://www.movabletype.org/documentation/mt5/design/themes/eiger.html)
 * [Setting up "Eiger" (Japanese)](http://www.movabletype.jp/documentation/mt5/design/themes/eiger.html)
