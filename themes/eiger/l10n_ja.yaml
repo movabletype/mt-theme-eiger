@@ -47,12 +47,12 @@ _SAMPLE_PAGE_BODY: |
 This blog is licensed under a <a rel="license" href="[_1]">Creative Commons License</a>.: 'このブログは<a href="[_1]">クリエイティブ・コモンズ</a>でライセンスされています。' 
 Post a Comment: コメントする
 Reply to comment: 返信する
-'Your comment has been received and held for approval by the blog owner.': 'コメントは現在承認されるまで公開を保留されています。' 
+Your comment has been received and held for approval by the blog owner.: 'コメントは現在承認されるまで公開を保留されています。' 
 Navigation: 'ナビゲーション'
-'The sign-in attempt was not successful; please try again.': 'サインインできませんでした。'
+The sign-in attempt was not successful; please try again.: 'サインインできませんでした。'
 Menu: メニュー
 Links: リンク
-'By default, this search engine looks for all words in any order. To search for an exact phrase, enclose the phrase in quotes:': 'すべての単語が順序に関係なく検索されます。フレーズで検索したいときは引用符で囲んでください。'
-'The search engine also supports AND, OR, and NOT keywords to specify boolean expressions:': 'AND、OR、NOTを入れることで論理検索を行うこともできます。'
+By default, this search engine looks for all words in any order. To search for an exact phrase, enclose the phrase in quotes\:: 'すべての単語が順序に関係なく検索されます。フレーズで検索したいときは引用符で囲んでください。'
+The search engine also supports AND, OR, and NOT keywords to specify boolean expressions\:: 'AND、OR、NOTを入れることで論理検索を行うこともできます。'
 Blog Index: ブログ用インデックスページ
 Displays errors for dynamically-published templates.: 'ダイナミックパブリッシングのエラーを表示します。'

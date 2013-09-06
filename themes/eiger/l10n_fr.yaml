@@ -46,11 +46,11 @@ _SAMPLE_PAGE_BODY: |
                  <p>Si le tag <code>@ADD_TO_SITE_NAV</code> est utilisé sur une page, celle-ci sera ajoutée à la navigation dans l'entête et le pied de page.</p>
 Post a Comment: Publier un commentaire
 Reply to comment: Répondre au commentaire
-'Your comment has been received and held for approval by the blog owner.': 'Votre commentaire a été reçu et est en attente de validation par le propriétaire de ce blog.'
-'The sign-in attempt was not successful; please try again.': "La tentative d'enregistrement a échoué. Veuillez réessayer."
-'By default, this search engine looks for all words in any order. To search for an exact phrase, enclose the phrase in quotes:': 'Par défaut, ce moteur va rechercher tous les mots dans le désordre. Pour chercher une expression exacte, placez-la entre apostrophes :'
-'The search engine also supports AND, OR, and NOT keywords to specify boolean expressions:': 'Le moteur de recherche supporte aussi les mot-clés AND, OR, NOT pour spécifier des expressions booléennes :'
-'This blog is licensed under a <a rel="license" href="[_1]">Creative Commons License</a>.': 'Ce blog est publié sous licence <a href="[_1]">Creative Commons</a>.'
+Your comment has been received and held for approval by the blog owner.: 'Votre commentaire a été reçu et est en attente de validation par le propriétaire de ce blog.'
+The sign-in attempt was not successful; please try again.: "La tentative d'enregistrement a échoué. Veuillez réessayer."
+By default, this search engine looks for all words in any order. To search for an exact phrase, enclose the phrase in quotes\:: 'Par défaut, ce moteur va rechercher tous les mots dans le désordre. Pour chercher une expression exacte, placez-la entre apostrophes:'
+The search engine also supports AND, OR, and NOT keywords to specify boolean expressions\:: 'Le moteur de recherche supporte aussi les mot-clés AND, OR, NOT pour spécifier des expressions booléennes:'
+This blog is licensed under a <a rel="license" href="[_1]">Creative Commons License</a>.: 'Ce blog est publié sous licence <a href="[_1]">Creative Commons</a>.'
 Navigation: Navigation
 Menu: Menu
 Links: Liens
