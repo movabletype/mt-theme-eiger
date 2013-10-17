@@ -34,13 +34,25 @@ Yearly Archives: 'Jahresarchiv'
 Yearly Archives Dropdown: 'Jahresarchiv (Dropdown)'
 Select a Year...: 'Jahr wählen...'
 
-_THEME_DESCRIPTION: '"Eiger" ist ein flexibel anpassbares Thema mit Responsive Webdesign. Über CSS-Media-Queries werden Ihre Seiten nicht nur automatisch optimal an die Fenstergröße des jeweiligen Computers oder Mobilgeräts angepasst. Mit den Movable-Type-eigenen Funktionen gestalten Sie darüber hinaus Navigationselemente, Logos und Kopfzeilen im Handumdrehen nach Ihren Vorstellungen.'
+_THEME_DESCRIPTION: 'Eiger ist ein flexibel anpassbares Thema mit Responsive Webdesign. Über CSS-Media-Queries werden Ihre Seiten nicht nur automatisch optimal an die Fenstergröße des jeweiligen Computers oder Mobilgeräts angepasst. Mit den Movable-Type-eigenen Funktionen gestalten Sie darüber hinaus Navigationselemente, Logos und Kopfzeilen im Handumdrehen nach Ihren Vorstellungen.'
 
 _ABOUT_PAGE_TITLE: Über-Seite
 _ABOUT_PAGE_BODY: |
                  <p>Das ist eine Beispiel-"Über"-Seite. Auf dieser Seite werden üblicherweise Informationen zu Ihrer Person oder Ihrem Unternehmen angezeigt.</p>
-                 <p>Wenn Sie den <code>@ABOUT_PAGE</code>-Befehl auf einer Seite verwenden, werden Links zu ihr in den Navigationsleisten im Kopf- und Fußbereich angezeigt.</p>		 
+                 <p>Wenn Sie den <code>@ABOUT_PAGE</code>-Befehl auf einer Seite verwenden, werden Links zu ihr in den Navigationsleisten im Kopf- und Fußbereich angezeigt.</p>
 _SAMPLE_PAGE_TITLE: Beispielseite
 _SAMPLE_PAGE_BODY: |
                  <p>Das ist eine Beispiel-Seite.</p>
                  <p>Wenn Sie den <code>@ADD_TO_SITE_NAV</code>-Befehl in einer Seite verwenden, werden Links zu ihr in den Navigationsleisten im Kopf- und Fußbereich angezeigt.</p>
+Navigation: 'Navigation'
+This blog is licensed under a <a rel="license" href="[_1]">Creative Commons License</a>.: 'Dieses Blog steht unter einer <a rel="license" href="[_1]">Creative Commons-Lizenz</a>.'
+Post a Comment: 'Kommentar schreiben'
+Reply to comment: 'Kommentar beantworten'
+Your comment has been received and held for approval by the blog owner.: 'Ihr Kommentar ist eingegangen und muss nun vom Blogbetreiber freigeschaltet werden.'
+The sign-in attempt was not successful; please try again.: 'Anmeldeversuch nicht erfolgreich. Bitte versuchen Sie es erneut.'
+Menu: 'Menü'
+Links: 'Links'
+By default, this search engine looks for all words in any order. To search for an exact phrase, enclose the phrase in quotes\:: 'Die Suchfunktion sucht nach allen angebenen Begriffen in beliebiger Reihenfolge. Verwenden Sie Anführungszeichen, um einen exakten Ausdruck zu suchen:'
+The search engine also supports AND, OR, and NOT keywords to specify boolean expressions\:: 'Die boolschen Operatoren AND, OR und NOT werden unterstützt:'
+Blog Index: 'Blog-Index'
+Displays errors for dynamically published templates.: 'Zeigt Fehlermeldung von dynamisch erzeugten Vorlagen an.'

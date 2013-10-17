@@ -7,8 +7,7 @@ Next entry: '次の記事'
 Newer entries: '新しい記事'
 Older entries: '過去の記事'
 Read more: '記事一覧へ'
-Please paste the Zenback script code here: 'ここに Zenback の Script コードは貼り付けてください。'
-
+Please paste the Zenback script code here: 'ここに Zenback の Script コードを貼り付けてください。'
 Index Page: 'インデックスページ'
 JavaScript - Theme: 'Javascript テーマ用'
 Stylesheet for IE (8 or lower): 'スタイルシート (IE8 以下用)'
@@ -44,3 +43,16 @@ _SAMPLE_PAGE_TITLE: ウェブページの例
 _SAMPLE_PAGE_BODY: |
                  <p>このページはウェブページの例です。</p>
                  <p>作成したウェブページに <code>@ADD_TO_SITE_NAV</code> というタグを設定すると、ページのヘッダ、フッタにあるナビゲーションにリンクが追加されます。</p>
+
+This blog is licensed under a <a rel="license" href="[_1]">Creative Commons License</a>.: 'このブログは<a href="[_1]">クリエイティブ・コモンズ</a>でライセンスされています。' 
+Post a Comment: コメントする
+Reply to comment: 返信する
+Your comment has been received and held for approval by the blog owner.: 'コメントは現在承認されるまで公開を保留されています。' 
+Navigation: 'ナビゲーション'
+The sign-in attempt was not successful; please try again.: 'サインインできませんでした。'
+Menu: メニュー
+Links: リンク
+By default, this search engine looks for all words in any order. To search for an exact phrase, enclose the phrase in quotes\:: 'すべての単語が順序に関係なく検索されます。フレーズで検索したいときは引用符で囲んでください。'
+The search engine also supports AND, OR, and NOT keywords to specify boolean expressions\:: 'AND、OR、NOTを入れることで論理検索を行うこともできます。'
+Blog Index: ブログ用インデックスページ
+Displays errors for dynamically-published templates.: 'ダイナミックパブリッシングのエラーを表示します。'
