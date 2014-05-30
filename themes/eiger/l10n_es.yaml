@@ -53,8 +53,8 @@ Your comment has been received and held for approval by the blog owner.: 'Su com
 The sign-in attempt was not successful; please try again.: 'El intento de registro no tuvo éxito; por favor, inténtelo de nuevo.'
 Menu: 'Menú'
 Links: 'Enlaces'
-By default, this search engine looks for all words in any order. To search for an exact phrase, enclose the phrase in quotes\:: 'Por defecto, este motor de búsqueda comprueba todas las palabras sin tener en cuenta el orden. Para buscar una frase exacta, encierre la frase entre comillas:'
-The search engine also supports AND, OR, and NOT keywords to specify boolean expressions\:: 'El motor de búsqueda también soporta los operadores AND, OR y NOT para especificar expresiones lógicas:'
+'By default, this search engine looks for all words in any order. To search for an exact phrase, enclose the phrase in quotes:': 'Por defecto, este motor de búsqueda comprueba todas las palabras sin tener en cuenta el orden. Para buscar una frase exacta, encierre la frase entre comillas:'
+'The search engine also supports AND, OR, and NOT keywords to specify boolean expressions:': 'El motor de búsqueda también soporta los operadores AND, OR y NOT para especificar expresiones lógicas:'
 Blog Index: 'Índice del blog'
 Displays errors for dynamically published templates.: 'Mostrar errores de las plantillas publicadas dinámicamente.'
 
