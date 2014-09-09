@@ -52,7 +52,7 @@ Navigation: 'ナビゲーション'
 The sign-in attempt was not successful; please try again.: 'サインインできませんでした。'
 Menu: メニュー
 Links: リンク
-By default, this search engine looks for all words in any order. To search for an exact phrase, enclose the phrase in quotes\:: 'すべての単語が順序に関係なく検索されます。フレーズで検索したいときは引用符で囲んでください。'
-The search engine also supports AND, OR, and NOT keywords to specify boolean expressions\:: 'AND、OR、NOTを入れることで論理検索を行うこともできます。'
+'By default, this search engine looks for all words in any order. To search for an exact phrase, enclose the phrase in quotes:': 'すべての単語が順序に関係なく検索されます。フレーズで検索したいときは引用符で囲んでください。'
+'The search engine also supports AND, OR, and NOT keywords to specify boolean expressions:': 'AND、OR、NOTを入れることで論理検索を行うこともできます。'
 Blog Index: ブログ用インデックスページ
 Displays errors for dynamically-published templates.: 'ダイナミックパブリッシングのエラーを表示します。'

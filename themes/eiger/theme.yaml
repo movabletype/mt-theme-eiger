@@ -1,6 +1,6 @@
 label: 'Eiger'
 id: 'eiger'
-version: 1.42
+version: 1.43
 author_link: 'http://www.sixapart.com/'
 author_name: 'Six Apart, Ltd'
 class: 'blog'
@@ -36,7 +36,7 @@ elements:
         basename: index
         title: <__trans phrase="_ABOUT_PAGE_TITLE">
         text: <__trans phrase="_ABOUT_PAGE_BODY">
-        tags: @ABOUT_PAGE
+        tags: '@ABOUT_PAGE'
         folder: about
       sample_page:
         basename: sample
