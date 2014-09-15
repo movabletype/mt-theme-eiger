@@ -44,7 +44,7 @@ _SAMPLE_PAGE_BODY: |
                  <p>このページはウェブページの例です。</p>
                  <p>作成したウェブページに <code>@ADD_TO_SITE_NAV</code> というタグを設定すると、ページのヘッダ、フッタにあるナビゲーションにリンクが追加されます。</p>
 
-This blog is licensed under a <a rel="license" href="[_1]">Creative Commons License</a>.: 'このブログは<a href="[_1]">クリエイティブ・コモンズ</a>でライセンスされています。' 
+This blog is licensed under a <a rel="license" href="[_1]">Creative Commons License</a>.: 'このブログは<a rel="license" href="[_1]">クリエイティブ・コモンズ</a>でライセンスされています。' 
 Post a Comment: コメントする
 Reply to comment: 返信する
 Your comment has been received and held for approval by the blog owner.: 'コメントは現在承認されるまで公開を保留されています。' 
