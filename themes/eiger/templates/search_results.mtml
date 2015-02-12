@@ -74,9 +74,9 @@
     <mt:SearchResultsHeader>
         <section id="search-results">
           <h2 class="title">
-      <mt:IfStraightSearch>
+      <MTIfStatic><mt:IfStraightSearch>
             <__trans phrase="Results matching &ldquo;[_1]&rdquo;" params="<$mt:SearchString$>">
-      </mt:IfStraightSearch>
+      </mt:IfStraightSearch></MTIfStatic>
       <mt:IfTagSearch>
             <__trans phrase="Results tagged &ldquo;[_1]&rdquo;" params="<$mt:SearchString$>">
       </mt:IfTagSearch>
@@ -102,9 +102,9 @@
 <mt:NoSearchResults>
         <section>
           <h2 class="title">
-  <mt:IfStraightSearch>
+  <MTIfStatic><mt:IfStraightSearch>
             <__trans phrase="Results matching &ldquo;[_1]&rdquo;" params="<$mt:SearchString$>">
-  </mt:IfStraightSearch>
+  </mt:IfStraightSearch></MTIfStatic>
   <mt:IfTagSearch>
             <__trans phrase="Results tagged &ldquo;[_1]&rdquo;" params="<$mt:SearchString$>">
   </mt:IfTagSearch>
