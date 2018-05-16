@@ -1,6 +1,6 @@
 label: 'Eiger'
 id: 'eiger'
-version: 1.52
+version: 1.6
 author_link: 'http://www.sixapart.com/'
 author_name: 'Six Apart, Ltd'
 class: 'blog'
@@ -146,6 +146,9 @@ elements:
           search_results:
             description_label: Displays results of a search.
             label: Search Results
+          cd_search_results:
+            description_label: Displays results of a search for content data.
+            label: Search Results for Content Data
           comment_preview:
             description_label: Displays preview of comment.
             label: Comment Preview
